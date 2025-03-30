@@ -1,0 +1,46 @@
+3/27/2025, 10:03:34 PM UTC 0: 
+
+----------------------------------------------
+3/27/2025, 10:03:34 PM UTC 1: Discord starting: {"releaseChannel":"stable","version":"0.0.89"}, modulepath: /home/zjones/.config/discord/0.0.89/modules
+3/27/2025, 10:03:34 PM UTC 2: ✅ webContents.created web1 ""
+3/27/2025, 10:03:34 PM UTC 3: ✅ window.created win1 "discord"
+3/27/2025, 10:03:34 PM UTC 4: ✅ webContents.did-finish-load web1
+3/27/2025, 10:03:50 PM UTC 5: ✅ webContents.created web2 ""
+3/27/2025, 10:03:50 PM UTC 6: ✅ window.created win2 "Discord"
+3/27/2025, 10:03:53 PM UTC 7: ✅ webContents.did-finish-load web2
+3/27/2025, 10:03:53 PM UTC 8: window.close win1
+3/27/2025, 10:03:53 PM UTC 9: webContents.destroyed web1
+3/27/2025, 10:03:53 PM UTC 10: window.closed win1
+3/27/2025, 10:07:10 PM UTC 11: window.close win2
+3/27/2025, 10:11:19 PM UTC 0: 
+
+----------------------------------------------
+3/27/2025, 10:11:19 PM UTC 1: Discord starting: {"releaseChannel":"stable","version":"0.0.89"}, modulepath: /home/zjones/.config/discord/0.0.89/modules
+3/27/2025, 10:17:29 PM UTC 12: window.close win2
+3/27/2025, 10:18:15 PM UTC 0: 
+
+----------------------------------------------
+3/27/2025, 10:19:10 PM UTC 13: window.close win2
+3/27/2025, 10:20:44 PM UTC 0: 
+
+----------------------------------------------
+3/27/2025, 10:20:44 PM UTC 1: Discord starting: {"releaseChannel":"stable","version":"0.0.89"}, modulepath: /home/zjones/.config/discord/0.0.89/modules
+3/27/2025, 10:20:46 PM UTC 14: window.close win2
+3/27/2025, 10:20:51 PM UTC 0: 
+
+----------------------------------------------
+3/27/2025, 10:21:04 PM UTC 15: window.close win2
+3/28/2025, 12:50:51 AM UTC 0: 
+
+----------------------------------------------
+3/28/2025, 12:50:51 AM UTC 1: Discord starting: {"releaseChannel":"stable","version":"0.0.89"}, modulepath: /home/zjones/.config/discord/0.0.89/modules
+3/28/2025, 12:50:51 AM UTC 2: ✅ webContents.created web1 ""
+3/28/2025, 12:50:51 AM UTC 3: ✅ window.created win1 "discord"
+3/28/2025, 12:50:51 AM UTC 4: ✅ webContents.did-finish-load web1
+3/28/2025, 12:50:52 AM UTC 5: ✅ webContents.created web2 ""
+3/28/2025, 12:50:52 AM UTC 6: ✅ window.created win2 "Discord"
+3/28/2025, 12:50:56 AM UTC 7: ✅ webContents.did-finish-load web2
+3/28/2025, 12:50:56 AM UTC 8: window.close win1
+3/28/2025, 12:50:56 AM UTC 9: webContents.destroyed web1
+3/28/2025, 12:50:56 AM UTC 10: window.closed win1
+3/28/2025, 12:51:02 AM UTC 11: window.close win2

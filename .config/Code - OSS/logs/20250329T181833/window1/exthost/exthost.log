@@ -1,0 +1,11 @@
+2025-03-29 18:18:34.466 [info] Extension host with pid 2316 started
+2025-03-29 18:18:34.467 [info] Skipping acquiring lock for /home/zjones/.config/Code - OSS/User/workspaceStorage/70a52cb9d0d0eab6b768c44561f06fbb.
+2025-03-29 18:18:34.491 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-29 18:18:34.498 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-29 18:18:34.559 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-29 18:18:34.610 [info] Eager extensions activated
+2025-03-29 18:18:34.622 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-29 18:18:34.624 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-29 18:18:52.970 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-29 18:19:59.329 [info] Extension host terminating: renderer closed the MessagePort
+2025-03-29 18:19:59.340 [info] Extension host with pid 2316 exiting with code 0
