@@ -4,8 +4,12 @@ check www.atlassian.com/git/tutorials/dotfiles for details on how to import conf
 
 *Note: I will write up a quick recap of the tutorial to include here at some point this week.*
 
-# Screenshots:
-- todo
+<details><summary><h2>Screenshots:<h2></summary>
+![2025-03-30-185935_hyprshot](https://github.com/user-attachments/assets/a986da03-b2e1-4ba8-ac79-45812a744efa)
+![2025-03-30-185946_hyprshot](https://github.com/user-attachments/assets/0d909d5d-85a8-4446-a593-f7bfabecd54c)
+![2025-03-30-194053_hyprshot](https://github.com/user-attachments/assets/95335d8f-481f-40ac-b0c5-a1fce7a4d155)
+![2025-03-30-194146_hyprshot](https://github.com/user-attachments/assets/795830b2-a650-4d3b-92a5-caff8a4e3392)
+</details>
 
 ## Basic setup from the beginning:
 - use archinstall script when installing OS
