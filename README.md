@@ -1,5 +1,5 @@
 # To use these configs:
-check [here](www.atlassian.com/git/tutorials/dotfiles) for details on how to import configs to your system after cloning this repo.
+check [here](https://www.atlassian.com/git/tutorials/dotfiles) for details on how to import configs to your system after cloning this repo.
 (skip to the "Installing your dotfiles onto a new system (or migrating to this setup)" section)
 
 *Note: I will write up a quick recap of the tutorial to include here at some point this week.*
